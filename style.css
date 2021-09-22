@@ -1,0 +1,19 @@
+body
+{
+  color: white;
+  background: #8d0147;
+}
+
+h3
+{
+    height: 70px;
+    width: 290px;
+    font-size: large;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
